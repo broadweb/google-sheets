@@ -11,7 +11,7 @@ class GoogleSheets
 
 
 	/**
-	 * Sets config including Facebook credentials
+	 * Sets config including Google credentials
 	 *
 	 * @param array $config
 	 */
